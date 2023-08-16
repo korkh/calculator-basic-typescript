@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-![calc](./img/Calc.png)
+![calc](./src/img/Calc.png)
 =======
 # Basic calculator
 The following project first of all represents a basic calculator written via React with TypeScript. It was created to test personal skills in React/TypeScript
