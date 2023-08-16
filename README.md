@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 ![calc](./img/Calc.png)
+=======
+# Basic calculator
+The following project first of all represents a basic calculator written via React with TypeScript. It was created to test personal skills in React/TypeScript
+>>>>>>> 4a9d400d042ca459f57f0abcddc54f9c72e2b9c0
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was styled using css modules method.
 
 ## Available Scripts
 
