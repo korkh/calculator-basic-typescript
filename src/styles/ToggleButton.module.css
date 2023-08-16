@@ -1,0 +1,32 @@
+/* ToggleButton.module.css */
+.switch {
+    position: relative;
+    display: inline-block;
+    margin: 5px 0 10px;
+    width: 40px;
+    height: 20px;
+    background-color: gray;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .switch.active {
+    background-color: green;
+  }
+  
+  .slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .switch.active .slider {
+    transform: translateX(20px);
+  }
+  

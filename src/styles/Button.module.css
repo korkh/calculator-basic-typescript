@@ -1,0 +1,67 @@
+.buttonGreen {
+    border: none;
+    background-image: linear-gradient(to bottom, rgb(64, 216, 9) 0%, rgb(185, 214, 174) 50%, rgb(64, 216, 9) 100%);
+    font-size: 34px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .buttonGreen:hover {
+    background-image: none;
+    background-color:rgb(11, 39, 1);
+    color: whitesmoke;
+  }
+
+  .buttonDark {
+    border: none;
+    background-image: linear-gradient(to bottom, rgb(17, 16, 16) 0%, rgb(53, 53, 53) 40%, rgb(17, 16, 16) 100%);
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    outline: none;
+  }
+
+  .buttonDark:hover {
+    background-image: none;
+    background-color:rgb(71, 71, 71);
+    color: whitesmoke;
+  }
+  
+  .equals {
+    grid-column: 3 / 5;
+    background-image: linear-gradient(to bottom, rgb(255, 0, 0) 0%, rgb(255, 85, 85) 50%, rgb(255, 0, 0) 100%);
+    font-size: 32px;
+    color: whitesmoke;
+  }
+  .equals:hover {
+    background-image: none;
+    background-color:rgb(71, 71, 71);
+    color: whitesmoke;
+  }
+
+  .signMain {
+    border: none;
+    background-image: linear-gradient(to bottom, rgb(255, 242, 1) 0%, rgb(242, 244, 126) 40%, rgb(255, 242, 1) 100%);
+    font-size: 34px;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    outline: none;
+  }
+
+  .signMain:hover {
+    background-image: none;
+    background-color:rgb(71, 71, 71);
+    color: whitesmoke;
+  }
+
+  .signC {
+    background-image: linear-gradient(to bottom, rgb(255, 0, 0) 0%, rgb(255, 85, 85) 50%, rgb(255, 0, 0) 100%);
+    font-size: 32px;
+    color: whitesmoke;
+  }
