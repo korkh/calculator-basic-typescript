@@ -177,6 +177,10 @@ const Calculator = () => {
 
   return (
     <Wrapper>
+      <h2 style={{ color: "whitesmoke", textAlign: "center" }}>
+        Basic calculator
+      </h2>
+      <br />
       <Display
         expression={buttonPresses}
         value={calc.num ? calc.num : calc.res}
